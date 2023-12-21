@@ -1,0 +1,21 @@
+
+:root
+{
+    --white-title: #FFFFFF;
+    --gray-text: #C0C0C0;
+    --black-root: #00030C;
+    --blue-button: #167BF7;
+    --white-description: #F9F9F9;
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: var(--black-root);
+    color: var(--white-title);
+}
