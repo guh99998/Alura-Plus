@@ -30,4 +30,15 @@ body
 .container
 {
     height: 100vh;
+    display: grid;
+}
+
+.container__botao
+{
+    background-color: var(--blue-button);
+    border-radius: 8px;
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+
 }
