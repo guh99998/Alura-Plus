@@ -81,3 +81,27 @@ body
     font-weight: 400;
     font-size: 12px;
 }
+
+.secundario
+{
+    align-items: center;
+    margin: 0 10em;
+}
+
+.secundario__imagem
+{
+    width: 80%;
+}
+
+.descricao__titulo
+{
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--white-title);
+    margin-bottom: 0.1em;
+}
+
+.descricao__texto
+{
+    color: var(--gray-text);
+}
